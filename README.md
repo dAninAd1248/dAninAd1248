@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an unity game and advent of code
 - 🌱 I’m currently learning quantum computing
-- 💬 Ask me about competitive programming
+- 💬 Ask me about competitive programming, modern physics, and music theory
 - 📫 How to reach me: dccolonpr@gmail.com
 - ⚡ Fun fact: no one knows what's inside of black holes
