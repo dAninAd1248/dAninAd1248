@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on an unity game and advent of code
+- 🌱 I’m currently learning quantum computing
+- 💬 Ask me about competitive programming
+- 📫 How to reach me: dccolonpr@gmail.com
+- ⚡ Fun fact: no one knows what's inside of black holes
