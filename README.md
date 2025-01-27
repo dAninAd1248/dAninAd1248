@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an unity game and advent of code
+- 🔭 I’m currently working on a web chess game
 - 🌱 I’m currently learning quantum computing
 - 💬 Ask me about competitive programming, modern physics, and music theory
 - 📫 How to reach me: dccolonpr@gmail.com
